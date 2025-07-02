@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @TishyaJ
-- 👀 I’m interested in exploring different domains of Computer Science
-- 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning, AI and deeply intrigued by Quantum Computing!
-- 📫 How to reach me: www.linkedin.com/in/tishya-j
-- 😄 Pronouns: Her
+👋 Hey, I’m @TishyaJ
+🎓 CS & Design Engineering Student | Curious. Creative. Consistent.
 
-<!---
-TishyaJ/TishyaJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Passionate about turning pixels into playful experiences.
+🧩 Currently building: Interactive apps, game logic, and secure web magic.
+🎯 Always learning: Full-stack dev • UI/UX • DevSecOps • CS Fundamentals
+
+🔍 Exploring the vast universe of Computer Science
+  • Data Structures & Algorithms
+  • Machine Learning & AI
+  • Quantum Computing (yep, it's wild 🤯)
+
+📫 Connect with me: LinkedIn
+😄 Pronouns: She/Her
+✨ Let’s build something meaningful together!
+
+“Stay curious. Code consistently. Create confidently.”
