@@ -3,15 +3,16 @@
 
 💡 Passionate about turning pixels into playful experiences.
 🧩 Currently building: Interactive apps, game logic, and secure web magic.
-🎯 Always learning: Full-stack dev • UI/UX • DevSecOps • CS Fundamentals
+🎯 Always learning: 
+Full-stack dev • UI/UX • DevSecOps • CS Fundamentals
 
 🔍 Exploring the vast universe of Computer Science
+
   • Data Structures & Algorithms
   • Machine Learning & AI
-  • Quantum Computing (yep, it's wild 🤯)
+  • Quantum Computing
 
-📫 Connect with me: LinkedIn
+📫 Connect with me: LinkedIn (https://www.linkedin.com/in/tishya-j/)
 😄 Pronouns: She/Her
 ✨ Let’s build something meaningful together!
-
-“Stay curious. Code consistently. Create confidently.”
+Stay curious. Code consistently. Create confidently.
