@@ -7,12 +7,9 @@
 Full-stack dev • UI/UX • DevSecOps • CS Fundamentals
 
 🔍 Exploring the vast universe of Computer Science
-
   • Data Structures & Algorithms
   • Machine Learning & AI
   • Quantum Computing
-
-📫 Connect with me: LinkedIn (https://www.linkedin.com/in/tishya-j/)
-😄 Pronouns: She/Her
+  
 ✨ Let’s build something meaningful together!
 Stay curious. Code consistently. Create confidently.
